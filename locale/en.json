@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "title": "Turn rating",
+    "description": "Rate each reply with five stars. Once enough ratings exist, a preference report is generated and a short rule is written into AGENTS.md. Skipping the stars does nothing."
+  },
+  "panel": {
+    "group": "Rate this reply",
+    "star": "stars"
+  }
+}
