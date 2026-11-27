@@ -1,4 +1,4 @@
-# dsh-star
+# dsh-turn-rating
 
 DeepSeek Harness（DSH）插件：给每条回复打五颗星，攒下的评价能变成一条条可执行的规则。
 
@@ -47,7 +47,7 @@ DeepSeek Harness（DSH）插件：给每条回复打五颗星，攒下的评价�
 ## 安装
 
 ```powershell
-dsh plugin add link:D:/path/to/dsh-star
+dsh plugin add link:D:/path/to/dsh-turn-rating
 ```
 
 装完**重启 DSH**（Host 半只在进程启动时加载）。
